@@ -1,2 +1,2 @@
 # distance
-Repository ini berisi implementasi berbagai metode perhitungan jarak, seperti Euclidean, Manhattan, Minkowski, Cosine Similarity, dan lainnya dalam berbagai bahasa pemrograman. Tujuan dari repository ini adalah menyediakan referensi dan perbandingan implementasi antar bahasa dalam menghitung jarak antara dua titik atau vektor.
+This repository contains implementations of various distance calculation methods, such as Euclidean, Manhattan, Minkowski, Cosine Similarity, and more, in multiple programming languages. The goal of this repository is to provide a reference and comparison of implementations across different languages for calculating distances between two points or vectors.
