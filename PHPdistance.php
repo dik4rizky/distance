@@ -22,8 +22,5 @@ class DistanceMeasurement {
     }
 }
 
-    $distance= new DistanceMeasurement();
-    $result=$distance->eucledianDistance([1,1],[2,2]);
-    echo $result;
 
 ?>
